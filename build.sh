@@ -7,3 +7,5 @@ python manage.py migrate
 
 # Collecter les fichiers statiques
 python manage.py collectstatic --noinput
+
+chmod +x build.sh
